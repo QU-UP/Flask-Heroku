@@ -13,8 +13,14 @@ The base demo does have a developed structure with template variables and some o
 2. Pip for python 3
 
 ### Setup
-1. Install dependencies: This can be done running the following command from the root folder $ pip3 install -r requirements.txt 
-2. Running: Run the default app using the following command from the root folder $ python3 routes.py
+1. Install dependencies: This can be done running the following command from the root folder:
+   ```shell
+   pip3 install -r requirements.txt 
+   ```
+2. Running: Run the default app using the following command from the root folder 
+   ```shell
+   python3 routes.py
+   ```
 3. Begin developing your app, the simplest way is to just build a static HTML app inside the static folder.
 
 ## Deployment to Heroku
